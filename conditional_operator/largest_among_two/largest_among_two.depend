@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594783034 source:c:\users\hp\desktop\c programs\conditional_operator\largest_among_two\main.c
+	<stdio.h>
+	<stdlib.h>
+
